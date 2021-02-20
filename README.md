@@ -22,6 +22,8 @@ SOLUX 2020 Winter project(2020.11~2021.2)
 ## 웹 페이지 : 
 https://nayeonkeum.github.io/COVID19_data_analysis/Web_Hosting/index.html
 
+http://covid19dejalwa.com.s3-website.ap-northeast-2.amazonaws.com/
+
 
 ## 사용 기술 정보
 
